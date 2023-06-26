@@ -1,52 +1,3 @@
-@font-face {
-  font-family: iranSans;
-  font-style: normal;
-  font-weight: 200;
-  src: url(../assets/font/iransans/eot/IRANSansWeb_UltraLight.eot) format("eot");
-  src: url(../assets/font/iransans/ttf/IRANSansWeb_UltraLight.ttf) format("ttf");
-  src: url(../assets/font/iransans/woff/IRANSansWeb_UltraLight.woff) format("woff");
-  src: url(../assets/font/iransans/woff2/IRANSansWeb_UltraLight.woff2) format("woff2");
-}
-@font-face {
-  font-family: iranSans;
-  font-style: normal;
-  font-weight: 300;
-  src: url(../assets/font/iransans/eot/IRANSansWeb_Light.eot) format("eot");
-  src: url(../assets/font/iransans/ttf/IRANSansWeb_Light.ttf) format("ttf");
-  src: url(../assets/font/iransans/woff/IRANSansWeb_Light.woff) format("woff");
-  src: url(../assets/font/iransans/woff2/IRANSansWeb_Light.woff2) format("woff2");
-}
-@font-face {
-  font-family: iranSans;
-  font-style: normal;
-  font-weight: 400;
-  src: url(../assets/font/iransans/eot/IRANSansWeb.eot) format("eot");
-  src: url(../assets/font/iransans/ttf/IRANSansWeb.ttf) format("ttf");
-  src: url(../assets/font/iransans/woff/IRANSansWeb.woff) format("woff");
-  src: url(../assets/font/iransans/woff2/IRANSansWeb.woff2) format("woff2");
-}
-@font-face {
-  font-family: iranSans;
-  font-style: normal;
-  font-weight: 500;
-  src: url(../assets/font/iransans/eot/IRANSansWeb_Medium.eot) format("eot");
-  src: url(../assets/font/iransans/ttf/IRANSansWeb_Medium.ttf) format("ttf");
-  src: url(../assets/font/iransans/woff/IRANSansWeb_Medium.woff) format("woff");
-  src: url(../assets/font/iransans/woff2/IRANSansWeb_Medium.woff2) format("woff2");
-}
-@font-face {
-  font-family: iranSans;
-  font-style: normal;
-  font-weight: 600;
-  src: url(../assets/font/iransans/eot/IRANSansWeb_Bold.eot) format("eot");
-  src: url(../assets/font/iransans/ttf/IRANSansWeb_Bold.ttf) format("ttf");
-  src: url(../assets/font/iransans/woff/IRANSansWeb_Bold.woff) format("woff");
-  src: url(../assets/font/iransans/woff2/IRANSansWeb_Bold.woff2) format("woff2");
-}
-@font-face {
-  font-family: iranSans;
-  src: url(../assets/fonts/Iran-Sans.ttf) format(".ttf");
-}
 * {
   box-sizing: border-box;
 }
@@ -101,20 +52,38 @@ body .intro .blue-box .orange-line {
   top: 95px;
   width: 120px;
 }
-body .intro .blue-box .button-1 {
-  display: none;
+body .intro .blue-box .buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
-body .intro .blue-box .button-1 .button, body .intro .blue-box .button-2 .button {
+body .intro .blue-box .buttons .button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
   position: relative;
   top: 170px;
   text-decoration: none;
   background-color: rgb(255, 174, 33);
   border-radius: 30px;
   color: #000000;
-  padding: 11px 35px;
+  margin: 0 5px;
+  padding: 11px 23px;
   font-size: 20px;
 }
-body .intro .blue-box a .arrow-img {
+body .intro .blue-box .buttons .button img {
+  width: 18px;
+  margin-right: 8px;
+}
+body .intro .blue-box .buttons .free-experience-button {
+  background-color: #ffffff;
+}
+body .intro .blue-box .buttons .show-courses-button {
+  padding: 11px 27px;
+}
+body .intro .blue-box .arrow .arrow-img {
   position: relative;
   top: 250px;
 }
@@ -141,21 +110,35 @@ body .intro .blue-box a .arrow-img {
   body .intro .blue-box .orange-line {
     top: 265px;
   }
-  body .intro .blue-box .button-1 {
-    display: block;
+  body .intro .blue-box .buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
-  body .intro .blue-box .button-1 .show-courses-button {
-    top: 310px;
+  body .intro .blue-box .buttons .button {
+    position: relative;
+    top: 170px;
+    text-decoration: none;
     background-color: rgb(255, 174, 33);
+    border-radius: 30px;
     color: #000000;
-    padding: 11px 42px;
+    margin: 0 5px;
+    padding: 11px 23px;
+    font-size: 20px;
   }
-  body .intro .blue-box .button-2 .free-experience-button {
-    top: 340px;
+  body .intro .blue-box .buttons .free-experience-button {
     background-color: #ffffff;
-    color: #000000;
+    top: 310px;
   }
-  body .intro .blue-box a .arrow-img {
+  body .intro .blue-box .buttons .show-courses-button {
+    padding: 11px 33px;
+    top: 340px;
+  }
+  body .intro .blue-box .buttons .show-courses-button img {
+    margin-right: 15px;
+  }
+  body .intro .blue-box .arrow .arrow-img {
     top: 380px;
   }
 }/*# sourceMappingURL=style.css.map */

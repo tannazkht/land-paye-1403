@@ -1,8 +1,3 @@
-@import "../style/iran-sans.scss";
-@font-face {
-    font-family: iranSans;
-    src: url(../assets/fonts/Iran-Sans.ttf) format(".ttf");
-}
 @mixin flex-manager($direction-value, $justify-value, $align-value) {
     display: flex;
     flex-direction: $direction-value;
@@ -53,22 +48,32 @@ body {
                 top: 95px;
                 width: 120px;
             }
-            .button-1 {
-                display: none;
-            }
-            .button-1, .button-2 {
+            .buttons {
+                @include flex-manager(row, center, center);
                 .button {
+                    @include flex-manager(row, center, center);
                     position: relative;
                     top: 170px;
                     text-decoration: none;
                     background-color: rgb(255, 174, 33);
                     border-radius: 30px;
                     color: #000000;
-                    padding: 11px 35px;
+                    margin: 0 5px;
+                    padding: 11px 23px;
                     font-size: 20px;
+                    img {
+                        width: 18px;
+                        margin-right: 8px;
+                    }
+                }
+                .free-experience-button {
+                    background-color: #ffffff;
+                }
+                .show-courses-button {
+                    padding: 11px 27px;
                 }
             }
-            a {
+            .arrow {
                 .arrow-img {
                     position: relative;
                     top: 250px;
@@ -100,23 +105,32 @@ body {
                 .orange-line {
                     top: 265px;
                 }
-                .button-1 {
-                    display: block;
-                    .show-courses-button {
-                        top: 310px;
+                .buttons {
+                    @include flex-manager(column, center, center);
+                    .button {
+                        position: relative;
+                        top: 170px;
+                        text-decoration: none;
                         background-color: rgb(255, 174, 33);
+                        border-radius: 30px;
                         color: #000000;
-                        padding: 11px 42px;
+                        margin: 0 5px;
+                        padding: 11px 23px;
+                        font-size: 20px;
                     }
-                }
-                .button-2 {
                     .free-experience-button {
-                        top: 340px;
                         background-color: #ffffff;
-                        color: #000000;
+                        top: 310px;
+                    }
+                    .show-courses-button {
+                        padding: 11px 33px;
+                        top: 340px;
+                        img {
+                            margin-right: 15px;
+                        }
                     }
                 }
-                a {
+                .arrow {
                     .arrow-img {
                         top: 380px;
                     }
