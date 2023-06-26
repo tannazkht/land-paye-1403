@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1923px" height="1083px" viewBox="0 0 1923 1083" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lines</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="49.9294797%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.752801%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.415779797">
+        <g id="Apple-TV" transform="translate(1.000000, 1.000000)">
+            <g id="lines">
+                <line x1="1920.25" y1="81.5" x2="0.5" y2="81.25" id="Line" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.25" y1="401.25" x2="0.5" y2="401" id="Line-Copy" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.25" y1="721.25" x2="0.5" y2="721" id="Line-Copy-5" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="161.5" x2="0.75" y2="161.25" id="Line" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="481.25" x2="0.75" y2="481" id="Line-Copy-2" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="801.25" x2="0.75" y2="801" id="Line-Copy-6" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="241.5" x2="0.75" y2="241.25" id="Line" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="561.25" x2="0.75" y2="561" id="Line-Copy-3" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.5" y1="881.25" x2="0.75" y2="881" id="Line-Copy-7" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="1920.75" y1="321.5" x2="1" y2="321.25" id="Line" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="1920.75" y1="641.25" x2="1" y2="641" id="Line-Copy-4" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="1920.75" y1="961.25" x2="1" y2="961" id="Line-Copy-8" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="1920.75" y1="1040.375" x2="1" y2="1040.125" id="Line-Copy-9" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.46723938" stroke-linecap="square"></line>
+                <line x1="80.25" y1="0.5" x2="80.25" y2="1080.5" id="Line" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="160.25" y1="0.5" x2="160.25" y2="1080.5" id="Line-Copy-10" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="239.75" y1="0.5" x2="239.75" y2="1080.5" id="Line-Copy-11" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="319.75" y1="0.5" x2="319.75" y2="1080.5" id="Line-Copy-12" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="399.75" y1="0.5" x2="399.75" y2="1080.5" id="Line-Copy-13" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="479.75" y1="0.5" x2="479.75" y2="1080.5" id="Line-Copy-14" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="559.25" y1="0.5" x2="559.25" y2="1080.5" id="Line-Copy-15" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="639.25" y1="0.5" x2="639.25" y2="1080.5" id="Line-Copy-16" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="719.75" y1="0.5" x2="719.75" y2="1080.5" id="Line-Copy-17" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="799.75" y1="0.5" x2="799.75" y2="1080.5" id="Line-Copy-18" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="879.25" y1="0.5" x2="879.25" y2="1080.5" id="Line-Copy-19" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="959.25" y1="0.5" x2="959.25" y2="1080.5" id="Line-Copy-20" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1039.25" y1="0.5" x2="1039.25" y2="1080.5" id="Line-Copy-21" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1119.25" y1="0.5" x2="1119.25" y2="1080.5" id="Line-Copy-22" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1198.75" y1="0.5" x2="1198.75" y2="1080.5" id="Line-Copy-23" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1278.75" y1="0.5" x2="1278.75" y2="1080.5" id="Line-Copy-24" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1358.75" y1="0.5" x2="1358.75" y2="1080.5" id="Line-Copy-25" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1438.25" y1="0.5" x2="1438.25" y2="1080.5" id="Line-Copy-26" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1518.25" y1="0.5" x2="1518.25" y2="1080.5" id="Line-Copy-27" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1598.25" y1="0.5" x2="1598.25" y2="1080.5" id="Line-Copy-28" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1678.25" y1="0.5" x2="1678.25" y2="1080.5" id="Line-Copy-29" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1757.75" y1="0.5" x2="1757.75" y2="1080.5" id="Line-Copy-30" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <line x1="1837.75" y1="0.5" x2="1837.75" y2="1080.5" id="Line-Copy-31" stroke="url(#linearGradient-2)" stroke-width="2" opacity="0.375300816" stroke-linecap="square"></line>
+                <polygon id="*" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="1605.46522 98.772 1611.368 94.5617196 1603.26152 84.1551776 1615.618 80.6598505 1613.33559 73.907514 1601.68744 78.5149907 1602.39578 64.772 1595.07633 64.772 1595.86337 78.2766729 1583.8217 73.5103178 1581.618 80.2626542 1593.81707 83.7579813 1585.47448 94.4028411 1591.37726 98.3748037 1598.38189 87.4916262"></polygon>
+                <polygon id="*-copy" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="1764.09722 340.5 1770 336.28972 1761.89352 325.883178 1774.25 322.38785 1771.96759 315.635514 1760.31944 320.242991 1761.02778 306.5 1753.70833 306.5 1754.49537 320.004673 1742.4537 315.238318 1740.25 321.990654 1752.44907 325.485981 1744.10648 336.130841 1750.00926 340.102804 1757.01389 329.219626"></polygon>
+                <polygon id="*-copy-2" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="1685.09722 898.5 1691 894.28972 1682.89352 883.883178 1695.25 880.38785 1692.96759 873.635514 1681.31944 878.242991 1682.02778 864.5 1674.70833 864.5 1675.49537 878.004673 1663.4537 873.238318 1661.25 879.990654 1673.44907 883.485981 1665.10648 894.130841 1671.00926 898.102804 1678.01389 887.219626"></polygon>
+                <polygon id="*-copy-4" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="407.097222 978.5 413 974.28972 404.893519 963.883178 417.25 960.38785 414.967593 953.635514 403.319444 958.242991 404.027778 944.5 396.708333 944.5 397.49537 958.004673 385.453704 953.238318 383.25 959.990654 395.449074 963.485981 387.106481 974.130841 393.009259 978.102804 400.013889 967.219626"></polygon>
+                <polygon id="*-copy-5" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="167.097222 738.5 173 734.28972 164.893519 723.883178 177.25 720.38785 174.967593 713.635514 163.319444 718.242991 164.027778 704.5 156.708333 704.5 157.49537 718.004673 145.453704 713.238318 143.25 719.990654 155.449074 723.485981 147.106481 734.130841 153.009259 738.102804 160.013889 727.219626"></polygon>
+                <polygon id="*-copy-6" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="326.097222 419.5 332 415.28972 323.893519 404.883178 336.25 401.38785 333.967593 394.635514 322.319444 399.242991 323.027778 385.5 315.708333 385.5 316.49537 399.004673 304.453704 394.238318 302.25 400.990654 314.449074 404.485981 306.106481 415.130841 312.009259 419.102804 319.013889 408.219626"></polygon>
+                <polygon id="*-copy-7" fill="#FFFFFF" fill-rule="nonzero" opacity="0.51978193" points="167.097222 176.5 173 172.28972 164.893519 161.883178 177.25 158.38785 174.967593 151.635514 163.319444 156.242991 164.027778 142.5 156.708333 142.5 157.49537 156.004673 145.453704 151.238318 143.25 157.990654 155.449074 161.485981 147.106481 172.130841 153.009259 176.102804 160.013889 165.219626"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

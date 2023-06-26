@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="177px" viewBox="0 0 310 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mask</title>
+    <defs>
+        <path d="M34.0091978,176.290371 C20.7277799,163.008953 13.2814179,155.562591 0,142.280595 L0,34.0097761 C13.2814179,20.7277799 20.7277799,13.2814179 34.0091978,-9.9475983e-14 L275.990224,-9.9475983e-14 C289.271642,13.2814179 296.718004,20.7277799 310,34.0097761 L310,142.280595 C296.718004,155.562591 289.271642,163.008953 275.990224,176.290371 L34.0091978,176.290371 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Land-Paye-D" transform="translate(-400.000000, -3670.000000)">
+            <g id="Group-13" transform="translate(400.000000, 3670.000000)">
+                <g id="Screenshot-2023-06-12-at-9.05.53-PM">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
